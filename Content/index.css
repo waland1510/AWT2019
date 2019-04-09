@@ -1,0 +1,17 @@
+body {
+    background-color: #e3f2fd;
+  }
+
+  h1 {
+    text-align: center;
+    color: blueviolet;
+  }
+  .width200 {
+    margin-left: 10px;
+  }
+  #footer {
+    display: inline-block;
+    position: relative;
+    float: right;
+    padding: 50px;
+  }
